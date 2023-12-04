@@ -89,7 +89,7 @@ const Footer = () => {
             <div className="mt-5">
               <p className="flex items-center gap-3 ">
                 <MdEmail className="text-[#02c173] text-xl"></MdEmail>
-                <span>product@mail.com</span>
+                <span>traveltrek@mail.com</span>
               </p>
               <p className="flex items-center gap-3 ">
                 <MdAddIcCall className="text-[#02c173] text-xl"></MdAddIcCall>
