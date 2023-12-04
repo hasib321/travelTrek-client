@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Kawshik Zaman",
+    "profilePicture": "https://i.ibb.co/HzHrzN0/kawshik.jpg",
+    "contactDetails": {
+      "email": "kawshik@gmail.com",
+      "phone": "+1234567890",
+      "location": "Dhaka, Bangladesh"
+    },
+    "education": "Bachelor's in Tourism Management",
+    "skills": ["Multilingual", "Cultural History", "Outdoor Survival"],
+    "workExperience": [
+      {
+        "position": "Senior Tour Guide",
+        "company": "TravelTrek",
+        "duration": "2018 - Present"
+      },
+      {
+        "position": "Assistant Guide",
+        "company": "Explore Bangladesh Tours",
+        "duration": "2015 - 2018"
+      }
+    ]
+  },
+  {
+    "name": "Azizul Hakim",
+    "profilePicture": "https://i.ibb.co/PQYhvJb/jim.jpg",
+    "contactDetails": {
+      "email": "azizul@gmail.com",
+      "phone": "+9876543210",
+      "location": "Chittagong, Bangladesh"
+    },
+    "education": "Bachelor's in History and Culture",
+    "skills": ["Wildlife Expert", "Adventure Photography"],
+    "workExperience": [
+      {
+        "position": "Lead Guide",
+        "company": "TravelTrek",
+        "duration": "2016 - Present"
+      }
+    ]
+  },
+  {
+    "name": "Ashikur Rahman",
+    "profilePicture": "https://i.ibb.co/mHfMqyw/ashik.jpg",
+    "contactDetails": {
+      "email": "ashikur@gmail.com",
+      "phone": "+1122334455",
+      "location": "Sylhet, Bangladesh"
+    },
+    "education": "Master's in Ecotourism",
+    "skills": ["Botanical Knowledge", "Bird Watching Specialist"],
+    "workExperience": [
+      {
+        "position": "Nature Guide",
+        "company": "TravelTrek",
+        "duration": "2017 - Present"
+      },
+      {
+        "position": "Assistant Researcher",
+        "company": "Sylhet Biodiversity Project",
+        "duration": "2014 - 2017"
+      }
+    ]
+  },
+  {
+    "name": "Mh Mahin",
+    "profilePicture": "https://i.ibb.co/2txYS9q/leon.jpg",
+    "contactDetails": {
+      "email": "mahin@gmail.com",
+      "phone": "+9988776655",
+      "location": "Rangamati, Bangladesh"
+    },
+    "education": "Diploma in Tourism and Hospitality",
+    "skills": ["Water Sports Expert", "Cultural Heritage Guide"],
+    "workExperience": [
+      {
+        "position": "Boating Instructor",
+        "company": "TravelTrek",
+        "duration": "2019 - Present"
+      }
+    ]
+  },
+  {
+    "name": "Rabbi Hasan",
+    "profilePicture": "https://i.ibb.co/MGMG3S6/rabbi.jpg",
+    "contactDetails": {
+      "email": "rabbi@gmail.com",
+      "phone": "+6655443322",
+      "location": "Cox's Bazar, Bangladesh"
+    },
+    "education": "Bachelor's in Geography",
+    "skills": ["Beach Activities", "Local Cuisine Specialist"],
+    "workExperience": [
+      {
+        "position": "Beach Guide",
+        "company": "TravelTrek",
+        "duration": "2016 - Present"
+      }
+    ]
+  },
+  {
+    "name": "Adnan Hossen",
+    "profilePicture": "https://i.ibb.co/QpkFNbJ/adnan.jpg",
+    "contactDetails": {
+      "email": "adnan@gmail.com",
+      "phone": "+7712345678",
+      "location": "Bandarban, Bangladesh"
+    },
+    "education": "Bachelor's in Environmental Studies",
+    "skills": ["Trekking Specialist", "Local Tribal History"],
+    "workExperience": [
+      {
+        "position": "Lead Trekking Guide",
+        "company": "TravelTrek",
+        "duration": "2015 - Present"
+      }
+    ]
+  }
+]

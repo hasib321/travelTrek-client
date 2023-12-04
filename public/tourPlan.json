@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://i.ibb.co/P4WshmL/pexels-photo-6723583.webp",
+    "tourType": "Hiking",
+    "tripTitle": "Sajek Valley Adventure",
+    "price": "200",
+    "description": "Embark on an adventurous journey through Sajek Valley, discovering the beauty of nature amidst the hills and indigenous communities.",
+    "tourPlan": {
+      "dayOne": "Arrive at Sajek Valley and explore local villages.",
+      "dayTwo": "Hike to Konglak Hilltop and witness the breathtaking sunset."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.8
+  },
+  {
+    "image": "https://i.ibb.co/y0RhB54/b42e162cb8894ffd9a603824fb09d3fa-pexels-kedar-bhave-4315327.jpg",
+    "tourType": "Sports",
+    "tripTitle": "Cox's Bazar Beach Sports",
+    "price": "180",
+    "description": "Experience thrilling beach sports and water activities at the world's longest natural sandy beach.",
+    "tourPlan": {
+      "dayOne": "Arrive at Cox's Bazar, enjoy beach sports.",
+      "dayTwo": "Relax on the beach and indulge in more activities."
+    },
+    "days": 2,
+    "groupSize": "Medium to Large",
+    "country": "Bangladesh",
+    "rating": 4.5
+  },
+  {
+    "image": "https://i.ibb.co/s3W3nmg/wooden-bridge-mangrove-forest.jpg",
+    "tourType": "Walking",
+    "tripTitle": "Sundarbans Forest Walk",
+    "price": "300",
+    "description": "Embark on a guided walk through the mystic Sundarbans forest, encountering unique wildlife and stunning mangrove landscapes.",
+    "tourPlan": {
+      "dayOne": "Arrive at the Sundarbans, begin forest walk.",
+      "dayTwo": "Explore deeper into the forest and experience wildlife."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.7
+  },
+  {
+    "image": "https://i.ibb.co/KsBTXML/istockphoto-1223269800-612x612.jpg",
+    "tourType": "Wildlife",
+    "tripTitle": "Sundarbans Wildlife Expedition",
+    "price": "350",
+    "description": "Embark on an exhilarating wildlife expedition through the Sundarbans, home to the royal Bengal tiger and diverse flora and fauna.",
+    "tourPlan": {
+      "dayOne": "Arrive at the Sundarbans, start the wildlife expedition.",
+      "dayTwo": "Explore various creeks and wildlife habitats."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.9
+  },
+  {
+    "image": "https://i.ibb.co/nMBSyg6/air-balloon-sky-atmosphere-balloon.jpg",
+    "tourType": "Air Rides",
+    "tripTitle": "Hot Air Ballooning in Sylhet",
+    "price": "400",
+    "description": "Experience the thrill of hot air ballooning over the picturesque landscapes of Sylhet, unveiling breathtaking views from above.",
+    "tourPlan": {
+      "dayOne": "Arrive in Sylhet and prepare for the hot air balloon ride.",
+      "dayTwo": "Soar through the skies and marvel at scenic vistas."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.6
+  },
+  {
+    "image": "https://i.ibb.co/p39ZywH/191396365-2641525005993769-7642575994839412149-n.jpg",
+    "tourType": "Walking",
+    "tripTitle": "Jaflong Stone Collection Trek",
+    "price": "150",
+    "description": "Embark on a trekking adventure to Jaflong, collecting unique stones and witnessing the convergence of natural beauty.",
+    "tourPlan": {
+      "dayOne": "Begin the trek to Jaflong and explore the stone collection sites.",
+      "dayTwo": "Continue the stone collection and enjoy the natural surroundings."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.ibb.co/ZXvspYD/360-F-517239905-Mz-Dgp-Nva-S32i0-XXm-K4d1pnv-Wgmin4o-AJ.jpg",
+    "tourType": "Hiking",
+    "tripTitle": "Bandarban Hill Tracks Trail",
+    "price": "280",
+    "description": "Explore the Bandarban hill tracks through an immersive hiking trail, discovering tribal culture and panoramic views.",
+    "tourPlan": {
+      "dayOne": "Start the trail and immerse in tribal culture.",
+      "dayTwo": "Hike to hilltops for panoramic views."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.7
+  },
+  {
+    "image": "https://i.ibb.co/XVw18Nh/rainforest.jpg",
+    "tourType": "Wildlife",
+    "tripTitle": "Lawachara National Park Adventure",
+    "price": "210",
+    "description": "Embark on a wildlife adventure in Lawachara National Park, encountering rare species of flora and fauna.",
+    "tourPlan": {
+      "dayOne": "Explore the biodiversity of Lawachara National Park.",
+      "dayTwo": "Hike through the forest and spot wildlife."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.6
+  },
+  {
+    "image": "https://i.ibb.co/FDt6v9J/29113079754-4bb743f19e-b.jpg",
+    "tourType": "Sports",
+    "tripTitle": "Adventure at Kuakata Beach",
+    "price": "190",
+    "description": "Enjoy an adventurous beach experience at Kuakata, participating in various thrilling water sports.",
+    "tourPlan": {
+      "dayOne": "Arrive at Kuakata and enjoy beach sports.",
+      "dayTwo": "Participate in more exhilarating activities."
+    },
+    "days": 2,
+    "groupSize": "Medium to Large",
+    "country": "Bangladesh",
+    "rating": 4.3
+  },
+  {
+    "image": "https://i.ibb.co/LRRnxrW/blog-kaptai-lake.jpg",
+    "tourType": "Hiking",
+    "tripTitle": "Rangamati Lake Trek",
+    "price": "300",
+    "description": "Embark on a trek around Rangamati Lake, discovering pristine beauty and local tribal communities.",
+    "tourPlan": {
+      "dayOne": "Commence the trek around Rangamati Lake.",
+      "dayTwo": "Explore tribal villages and scenic spots."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.6
+  },
+  {
+    "image": "https://i.ibb.co/Wx6crHv/beach-saint-martins-island-bangladesh.jpg",
+    "tourType": "Walking",
+    "tripTitle": "Saint Martin's Island Walk",
+    "price": "170",
+    "description": "Take a serene walk on Saint Martin's Island, exploring its stunning beaches and tranquil surroundings.",
+    "tourPlan": {
+      "dayOne": "Arrive at Saint Martin's Island and begin the walk.",
+      "dayTwo": "Relax on the beach and explore the island further."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.ibb.co/wyP3bPM/paragliding-take-off.jpg",
+    "tourType": "Air Rides",
+    "tripTitle": "Paragliding Adventure in Bandarban",
+    "price": "380",
+    "description": "Experience the thrill of paragliding over the scenic landscapes of Bandarban, creating unforgettable aerial memories.",
+    "tourPlan": {
+      "dayOne": "Prepare for the paragliding adventure.",
+      "dayTwo": "Glide through the skies and enjoy breathtaking views."
+    },
+    "days": 2,
+    "groupSize": "Small to Medium",
+    "country": "Bangladesh",
+    "rating": 4.8
+  }
+]

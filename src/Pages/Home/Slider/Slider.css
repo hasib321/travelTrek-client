@@ -1,0 +1,8 @@
+/* Faux outline for older browsers */
+.text-stroke {
+  color: white;
+  text-transform: uppercase;
+  font-size: 4.5rem;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+}

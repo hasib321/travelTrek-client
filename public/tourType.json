@@ -1,0 +1,22 @@
+[
+  {
+    "tourType": "Hiking",
+    "typeImage": "https://i.ibb.co/5T2cBpy/7360.webp"
+  },
+  {
+    "tourType": "Sports",
+    "typeImage": "https://i.ibb.co/0V9bxvx/brandon-mcdonald-o-U62drqdho-unsplash-1350x900.webp"
+  },
+  {
+    "tourType": "Walking",
+    "typeImage": "https://i.ibb.co/wKWx5sf/Adobe-Stock-115106877-scaled-1-1-1.jpg"
+  },
+  {
+    "tourType": "Wildlife",
+    "typeImage": "https://i.ibb.co/ygMTBwb/YGSK-TGL-Rangers-on-Patrol-Car-Big-life-foundation.jpg"
+  },
+  {
+    "tourType": "Air Rides",
+    "typeImage": "https://i.ibb.co/KwwxqTW/best-hot-air-balloon-rides-cappadocia-turkey.jpg"
+  }
+]
