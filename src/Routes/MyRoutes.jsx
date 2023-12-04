@@ -66,19 +66,23 @@ const MyRoutes = createBrowserRouter([
         path: "/allPackage/v1/:id",
         element: <PackageDetails></PackageDetails>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/package/${params.id}`),
+          fetch(`https://traveltrek-server.vercel.app/package/${params.id}`),
       },
       {
         path: "/allPackage/:tourType",
         element: <TourPackageType></TourPackageType>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/packages/${params.tourType}`),
+          fetch(
+            `https://traveltrek-server.vercel.app/packages/${params.tourType}`
+          ),
       },
       {
         path: "/guideProfile/:id",
         element: <GuideProfile></GuideProfile>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/guideProfileDetails/${params.id}`),
+          fetch(
+            `https://traveltrek-server.vercel.app/guideProfileDetails/${params.id}`
+          ),
       },
       {
         path: "/allStoryCard",
@@ -88,7 +92,7 @@ const MyRoutes = createBrowserRouter([
         path: "/allStoryCard/:id",
         element: <TouristStoryDetails></TouristStoryDetails>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/story/${params.id}`),
+          fetch(`https://traveltrek-server.vercel.app/story/${params.id}`),
       },
     ],
   },
@@ -128,7 +132,9 @@ const MyRoutes = createBrowserRouter([
         path: "myWishlist/:id",
         element: <MyWishlistDetails></MyWishlistDetails>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/wishlistDetails/${params.id}`),
+          fetch(
+            `https://traveltrek-server.vercel.app/wishlistDetails/${params.id}`
+          ),
       },
       //admin routes
       {

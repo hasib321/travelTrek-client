@@ -32,7 +32,7 @@ const MeetGuide = () => {
             </tr>
           </thead>
           <tbody>
-            {data.map((guideList, index) => (
+            {data?.map((guideList, index) => (
               <tr key={guideList._id}>
                 <th>{index + 1}</th>
                 <td>
