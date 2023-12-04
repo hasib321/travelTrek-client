@@ -20,10 +20,7 @@ const OverViewVideo = () => {
           <p>Explore, Experience, and Embrace the Extraordinary</p>
         </div>
         <video autoPlay muted loop className="background-video">
-          <source
-            src="../../../../../public/TravelAgency.mp4"
-            type="video/mp4"
-          />
+          <source src="TravelAgency.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
