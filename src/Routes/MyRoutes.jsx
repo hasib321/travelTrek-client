@@ -23,11 +23,13 @@ import Blog from "../Pages/Blog/Blog";
 import AboutUs from "../Pages/AboutUs/AboutUs";
 import ContactUs from "../Pages/Contact Us/ContactUs";
 import PrivateRoute from "./PrivateRoute";
+import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 
 const MyRoutes = createBrowserRouter([
   {
     path: "/",
     element: <Layout></Layout>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
@@ -103,6 +105,7 @@ const MyRoutes = createBrowserRouter([
         <Dashboard></Dashboard>
       </PrivateRoute>
     ),
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "myBookings",
